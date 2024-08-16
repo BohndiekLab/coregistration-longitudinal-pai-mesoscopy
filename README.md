@@ -9,3 +9,5 @@ This work is largerly based on contributions and Python packages developed by ot
 * `SimpleITK` (Lowekamp et al. The Design of SimpleITK. Frontiers in Neuroinformatics. 2013 Dec 30;7:45)
 * `Open3D` (Zhou et al. Open3D: A Modern Library for 3D Data Processing. arXiv. 2018. arXiv:1801.09847)
 * `MONAI` (Cardoso et al. MONAI: An open-source framework for deep learning in healthcare. arXiv. 2022. arXiv:2211.02701)
+
+<img src="image/Fig1_CoRegMethods_pipeline_small_revised.png" alt="Photoacoustic mesoscopy image co-registration workflow and methods" width="70%" />
