@@ -1,6 +1,6 @@
 # coregistration-longitudinal-pai-mesoscopy
 
-This repository contains the code for preprocessing, co-registering , and assessing the co-registration performance of methods applied to mesoscopic photoacoustic imaging (PAI) data, presented in the study by Lefebvre TL et al. (Lefebvre TL et al. Performance evaluation of traditional and deep learning-based image co-registration methods in photoacoustic mesoscopy of the vasculature. 2024.). Three categories of co-registration techniques are tested:
+This repository contains the code for preprocessing, co-registering , and assessing the co-registration performance of methods applied to mesoscopic photoacoustic imaging (PAI) data, presented in the study by Lefebvre TL et al. (Lefebvre TL et al. Performance evaluation of image co-registration methods in photoacoustic mesoscopy of the vasculature. Phys Med Biol. 2024.). Three categories of co-registration techniques are tested:
 * Intensity-based co-registration (using joint histogram mutual information or normalized cross-correlation as an optimization metric for affine image co-registration)
 * Shape-based co-registration (using the point-to-plane iterative closest point algorithm or normalized cross-correlation on distance-transformed segmentations for affine image co-registration)
 * Deep learning-based segmentation (using dual-input LocalNet for learned deformable image co-registration)
